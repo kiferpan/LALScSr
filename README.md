@@ -10,7 +10,7 @@ Implementation of Paper: "Dual-Branch-Spectral-High-Frequency-Fusion-and-Correct
 
 ## Network Structure
 <p>
-  <img src='Fig/Network_Structure.png'/>
+  <img src='Fig/Network_structure.png'/>
 </p>
 
 ## Experimental Result
