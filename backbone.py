@@ -1,9 +1,11 @@
+# This file contains the network model of DSHFCN.
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.nn.init as init
 
-from torchsummary import summary  # Statistical parameter
+from torchsummary import summary  
 
 
 class PSA(nn.Module):
