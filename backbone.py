@@ -1,4 +1,4 @@
-# This file contains the network model of DSHFCN.
+# This file contains the code of DSHFCN.
 
 import torch
 import torch.nn as nn
