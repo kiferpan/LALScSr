@@ -13,7 +13,7 @@ Implementation of Paper: "Dual-Branch-Spectral-High-Frequency-Fusion-and-Correct
   <img src='Fig/Network_structure.png'/>
 </p>
 
-## Experimental Result
+## Experimental Results
 #### CAVE:
 <p>
   <img src='Fig/CAVE_result.png' />
@@ -26,7 +26,7 @@ Fig. SAM distribution of partial data in CAVE by different methods. (a) RGB, (b)
 </p>
 Fig. SAM distribution of partial data in Houston by different methods. (a) RGB, (b) CNMF, (c) Bayesian, (d) GFPCA, (e) DDLPS, (f) GuidedNet, (g) ADKNet, (h) BUSIFusion, (i) the proposed method. Color bar range is [0,0.2] to highlight the spectral differences more clearly.
 
-## Further Result
+## Further Results
 Natural image superresolution (SR) model applied in our method.
 <p>
   <img src='Fig/Further_result.png'/>
