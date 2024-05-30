@@ -1,6 +1,6 @@
-# Dual-Branch-Spectral-High-Frequency-Fusion-and-Correction-Network-for-Hyperspectral-image-fusion 
+# LALScSr: Layer-wise Adaptive Learning of Spectral Correction and Spatial Rebuild Network for Hyperspectral Image fusion 
 
-Implementation of Paper: "Dual-Branch-Spectral-High-Frequency-Fusion-and-Correction-Network-for-Hyperspectral-image-fusion" (DSHFCN) in PyTorch
+Implementation of Paper: "LALScSr: Layer-wise Adaptive Learning of Spectral Correction and Spatial Rebuild Network for Hyperspectral Image fusion" in PyTorch
 
 
 ## Prepare Training Dataset
@@ -18,13 +18,13 @@ Implementation of Paper: "Dual-Branch-Spectral-High-Frequency-Fusion-and-Correct
 <p>
   <img src='Fig/CAVE_result.png' />
 </p>
-Fig. SAM distribution of partial data in CAVE by different methods. (a) RGB, (b) CNMF, (c) Bayesian, (d) GFPCA, (e) DDLPS, (f) GuidedNet, (g) ADKNet, (h) BUSIFusion, (i) the proposed method. Color bar range is [0,0.2] to highlight the spectral differences more clearly.
+Fig. The distribution of SAM value in CAVE dataset for partial data by different methods. (a) RGB, (b) CNMF, (c) Bayesian, (d) GFPCA, (e) DDLPS, (f) GuidedNet, (g) ADKNet, (h) BUSIFusion, (i) the proposed method. Color bar range is [0,0.2] to highlight the spectral differences more clearly.
 
 ### Houston:
 <p>
   <img src='Fig/Houston_result.png' />
 </p>
-Fig. SAM distribution of partial data in Houston by different methods. (a) RGB, (b) CNMF, (c) Bayesian, (d) GFPCA, (e) DDLPS, (f) GuidedNet, (g) ADKNet, (h) BUSIFusion, (i) the proposed method. Color bar range is [0,0.2] to highlight the spectral differences more clearly.
+Fig. SThe distribution of SAM value in Houston dataset for partial data by different methods. (a) RGB, (b) CNMF, (c) Bayesian, (d) GFPCA, (e) DDLPS, (f) GuidedNet, (g) ADKNet, (h) BUSIFusion, (i) the proposed method. Color bar range is [0,0.2] to highlight the spectral differences more clearly.
 
 ## Further Results
 Natural image superresolution (SR) model applied in our method.
