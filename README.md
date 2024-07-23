@@ -1,6 +1,6 @@
-# LALScSr: Layer-wise Adaptive Learning of Spectral Correction and Spatial Rebuild Network for Hyperspectral Image fusion 
+# LALScSr: Layer-wise Adaptive Learning of Spectral Correction and Spatial Rebuild Network for Hyperspectral Image Enhancement 
 
-Implementation of Paper: "LALScSr: Layer-wise Adaptive Learning of Spectral Correction and Spatial Rebuild Network for Hyperspectral Image fusion" in PyTorch
+Implementation of Paper: "LALScSr: Layer-wise Adaptive Learning of Spectral Correction and Spatial Rebuild Network for Hyperspectral Image Enhancement" in PyTorch
 
 
 ## Prepare Training Dataset
